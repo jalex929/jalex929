@@ -8,4 +8,6 @@ How to reach me:
 - LinkedIn: https://www.linkedin.com/in/jayfoxdesigner
 - Instagram: @jayfox.designer<br><br>
 
+I have some additional work on <a href="https://codepen.io/jalex929">CodePen</a>.
+
 Thank you for reading!
