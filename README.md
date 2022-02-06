@@ -5,8 +5,8 @@ I’m looking to collaborate on shipping some products! I'm especially looking f
 How to reach me:
 - Phone: <a href="tel:7086915243">(708) 691-5243</a> (text or call any time)
 - Email: jay@jayfox.design or jafoxdesign@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jayfoxdesigner
-- Instagram: @jayfox.designer<br><br>
+- LinkedIn: <a href="https://www.linkedin.com/in/jayfoxdesigner">.../jayfoxdesigner</a>
+- Instagram: <a href="https://www.instagram.com/jayfox.designer/">@jayfox.designer</a><br><br>
 
 I have some additional work on <a href="https://codepen.io/jalex929">CodePen</a>.
 
